@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FireChat Realtime",
+  "description": "A simple, modern real-time chat application using Firebase Realtime Database. Features Create/Join room functionality and instant messaging.",
+  "requestFramePermissions": []
+}
